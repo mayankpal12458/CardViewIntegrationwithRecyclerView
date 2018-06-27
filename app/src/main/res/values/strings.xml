@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CardView Integration with RecyclerView</string>
+    <string-array name="person_name">
+        <item>APJ</item>
+        <item>AR Rahman</item>
+        <item>Big B</item>
+        <item>GandhiJi</item>
+        <item>Gopichand</item>
+        <item>Kalpana</item>
+        <item>Sachin</item>
+        <item>Steve</item>
+    </string-array>
+    <string-array name="person_email">
+        <item>APJ@gmail.com</item>
+        <item>AR Rahman@yahoomail.com</item>
+        <item>Big B@rediffmail.com</item>
+        <item>GandhiJi@xyz.com</item>
+        <item>Gopichand@jikl.com</item>
+        <item>Kalpana@hotmail.com</item>
+        <item>Sachin@polk.com</item>
+        <item>Steve@gmail.com</item>
+    </string-array>
+    <string-array name="person_mobile">
+        <item>166612</item>
+        <item>14164</item>
+        <item>353596</item>
+        <item>24483</item>
+        <item>362365</item>
+        <item>26233</item>
+        <item>325452</item>
+        <item>356326</item>
+    </string-array>
+</resources>
